@@ -1,4 +1,4 @@
-# Java-Practice
+# Java Practice
 
 This repository is dedicated to tracking my data structures and algorithms practice. I am pursuing a best-selling course on Udemy, "Java Programming Masterclass updated to Java 17" under Senior Developer Tim Buchalka. In this repository, I will post algorithmic solutions demonstrating my growth as I:
 
